@@ -24,7 +24,7 @@ Clone the repository:
 
 Bash
 
-git clone https://github.com/your-username/algoglimps.git
+git clone https://github.com/engineerrajgupta/AlgoGlimps.git
 cd algoglimps
 Build the Spring Boot application:
 
